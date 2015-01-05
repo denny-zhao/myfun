@@ -3,3 +3,4 @@ this is a test 2 - 2nd change
 this is a text change.
 more change.
 create branch "dev".
+change test2.txt on dev after feature1 branched.
