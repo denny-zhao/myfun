@@ -4,3 +4,4 @@ this is a text change.
 more change.
 create branch "dev".
 change test2.txt on dev after feature1 branched.
+modify test.txt on feature1 branch
